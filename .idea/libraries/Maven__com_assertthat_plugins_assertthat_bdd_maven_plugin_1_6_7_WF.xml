@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.assertthat.plugins:assertthat-bdd-maven-plugin:1.6.7-WF">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/assertthat/plugins/assertthat-bdd-maven-plugin/1.6.7-WF/assertthat-bdd-maven-plugin-1.6.7-WF.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/assertthat/plugins/assertthat-bdd-maven-plugin/1.6.7-WF/assertthat-bdd-maven-plugin-1.6.7-WF-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/assertthat/plugins/assertthat-bdd-maven-plugin/1.6.7-WF/assertthat-bdd-maven-plugin-1.6.7-WF-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
